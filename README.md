@@ -1,35 +1,23 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-# Programación con objetos I
+# Mi presentación: Ailen Pisoni!
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+##    Mi información laboral y educativa
+Soy Ailen, tengo 21 años y soy técnica en informática.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Terminé el secundario en plena pandemia. Al ser escuela técnica, había tenido unas pasantías virtuales gracias a las que terminé trabajando en la empresa que sigo hoy en día y en la que aprendí mucho sobre programación.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Al tiempo tuve la suerte de conocer la UnaHur y anotarme en la carrera de Programación. Hoy en día estoy en segundo año de la carrera y estoy fascina con la facultad. Me motivó mucho a aprender otras ramas de la programación fuera de lo web (que es de lo que trabajo hoy en día), y también a expandirme hacia el lado de la inteligencia artificial. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+![](https://i.imgur.com/SQ8Ry7T.jpg)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+##    Sobre mí
+Soy de San Justo, viví toda mi vida acá. Me gusta mucho el anime y los vídeojuegos. 
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+En mi tiempo libre, me dedico a la confección de trajes, pelucas y maquillaje para la caracterización de personajes. También hago sesiones de fotos. 
+![](https://i.imgur.com/m4mIFlP.jpg)
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Tengo muchas mascotas! 4 gatos :cat: y 4 perros :dog:. Me encantan los animales. Les dejo una foto de mi gato Dio :cat2:
+
+![](https://i.imgur.com/uvpu2tl.jpg)
